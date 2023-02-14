@@ -1,4 +1,4 @@
-
+[![Build status](https://ci.appveyor.com/api/projects/status/1h9b0jls2cmekfgu?svg=true)](https://ci.appveyor.com/project/bataltsevV/postmanecho-task3)
 
 ## Задача №1: настройка CI
 
